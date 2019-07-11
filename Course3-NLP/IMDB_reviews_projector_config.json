@@ -6,8 +6,8 @@
         1000,
         50
       ],
-      "tensorPath": "Course3-NLP/vecs.tsv",
-      "metadataPath": "Course3-NLP/meta.tsv"
+      "tensorPath": "https://github.com/xiaoqingtan/TensorFlow-In-Practice/blob/master/Course3-NLP/vecs.tsv",
+      "metadataPath": "https://github.com/xiaoqingtan/TensorFlow-In-Practice/blob/master/Course3-NLP/meta.tsv"
     }
   ]
 }

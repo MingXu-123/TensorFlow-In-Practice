@@ -6,8 +6,8 @@
         1000,
         50
       ],
-      "tensorPath": "vecs.tsv",
-      "metadataPath": "meta.tsv"
+      "tensorPath": "Course 3 - NLP/vecs.tsv",
+      "metadataPath": "Course 3 - NLP/meta.tsv"
     }
   ]
 }
